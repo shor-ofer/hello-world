@@ -6,4 +6,12 @@ test 5
 test 6-ofer
 test 6 - not ofer
 test-ofergmail
-test 10
+ofer-gmail-commit
+ofer-commit
+ofer-123
+ofer-456
+edit on my gmail fork
+gmail change 2
+gmail change 3
+Magal
+
